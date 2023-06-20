@@ -1,4 +1,6 @@
-import {SafeAreaView, Text} from 'react-native';
+/* eslint-disable prettier/prettier */
+import { SafeAreaView, Text } from 'react-native';
+ 
 
 const App = () => {
   return (
